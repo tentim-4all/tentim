@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "projects": 100,
+    "clients": 50,
+    "years": 5,
+    "awards": 10
+  },
+  "services": [
+    {
+      "title": "Brand Identity",
+      "description": "Visual Systems",
+      "image": "images/brand identity 2.png"
+    },
+    {
+      "title": "Logo Design",
+      "description": "Mark Creation",
+      "image": "https://k2wtqshaiub2w.ok.kimi.link/images/service-logo.jpg"
+    },
+    {
+      "title": "Web Design",
+      "description": "Digital Experiences",
+      "image": "images/web design 2.png"
+    },
+    {
+      "title": "Print Design",
+      "description": "Tangible Materials",
+      "image": "images/print design 2.png"
+    },
+    {
+      "title": "Packaging Design",
+      "description": "Product Presentation",
+      "image": "images/packaging design 2.png"
+    },
+    {
+      "title": "Brand Strategy",
+      "description": "Online Strategy",
+      "image": "images/brand strategy2.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jane Doe",
+      "quote": "The team at TENTIM transformed our brand—highly recommend!",
+      "company": "ACME Co."
+    },
+    {
+      "name": "John Smith",
+      "quote": "Creative, professional, and fast. A pleasure to work with.",
+      "company": "Startup XYZ"
+    },
+    {
+      "name": "Emily Carter",
+      "quote": "Their creativity pushed our vision further than we imagined. Outstanding service from start to finish!",
+      "company": "GreenLeaf Studios"
+    }
+  ],
+  "contact": {
+    "email": "hello@tentim.studio",
+    "phone": "+1-555-123-4567"
+  }
+}
